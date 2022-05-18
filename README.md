@@ -5,7 +5,7 @@ I am currently participating in a **Data Science** Bootcamp provided by **CodeUp
 I am very excited to transition into the Data world and become a highly skilled Data Scientist who can provide immense value to any organization. 
 
 ### Navy
-I have 8+ years experience in the U.S. Navy as a Nuclear Machinist Mate. 
+I have 8+ years experience in the U.S. Navy as a Nuclear Machinist Mate (mechanic). 
 I spent four years on the USS Tucson, a fast-attack submarine based out of Pearl Harbor, HI, where I was qualified Engineroom Supervisor (ERS). 
 
 ### About me
